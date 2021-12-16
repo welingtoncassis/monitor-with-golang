@@ -1,0 +1,18 @@
+https://random-status-code.herokuapp.com- Online: true
+https://www.alura.com.br- Online: true
+https://www.caelum.com.br- Online: true
+https://random-status-code.herokuapp.com- Online: false
+https://www.alura.com.br- Online: true
+https://www.caelum.com.br- Online: true
+https://random-status-code.herokuapp.com- Online: true
+https://www.alura.com.br- Online: true
+https://www.caelum.com.br- Online: true
+16/12/2021 18:19:27 https://random-status-code.herokuapp.com - Online: true
+16/12/2021 18:19:27 https://www.alura.com.br - Online: true
+16/12/2021 18:19:28 https://www.caelum.com.br - Online: true
+16/12/2021 18:19:34 https://random-status-code.herokuapp.com - Online: true
+16/12/2021 18:19:34 https://www.alura.com.br - Online: true
+16/12/2021 18:19:34 https://www.caelum.com.br - Online: true
+16/12/2021 18:19:40 https://random-status-code.herokuapp.com - Online: false
+16/12/2021 18:19:40 https://www.alura.com.br - Online: true
+16/12/2021 18:19:40 https://www.caelum.com.br - Online: true
